@@ -111,119 +111,112 @@ const HFK_DATA = {
           name: '김나의',
           company: 'HYBE',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김윤영',
           company: '레디투킥',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '문윤선',
           company: 'skt',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
-          events: []
-        },
-        {
-          name: '박은정',
-          company: '웨버샌드윅코리아',
-          reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '박현지',
           company: '공차코리아',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '서종욱',
           company: '현대자동차',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '신혜빈',
           company: '풀무원식품',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '양지영',
           company: '(주)오뚜기',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '양희연',
           company: '엠엔디엘컴퍼니',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '오지영',
           company: '.',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '유인옥',
           company: '마인드노크',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이나라',
           company: '스튜디오에이엠티',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이누리',
           company: '공차코리아',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '정주환',
           company: '테이블그라피',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '허미현',
           company: '삼삼엠투',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '허재필',
           company: '주식회사 커피즈',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '황지혜',
           company: '매일유업',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         }
       ]
@@ -364,112 +357,105 @@ const HFK_DATA = {
           name: '권윤지',
           company: 'CJ제일제당',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김나래',
           company: '카펜스트리트',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김준영',
           company: '스타에셋파트너스',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
-          events: []
-        },
-        {
-          name: '민희준',
-          company: '지마켓',
-          reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '박지영',
           company: 'DL이앤씨',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '백승연',
           company: '머쉬룸컴퍼니(레디투킥)',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '서효정',
           company: '포스코인재창조원',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '윤다혜',
           company: 'ESL',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이동형',
           company: '스탠리1913',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이선영',
           company: '라이브네이션코리아',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '이호연',
           company: '(주)희녹라이프',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '임윤서',
           company: '어반플레이',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '임이랑',
           company: '메가스터디교육',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '조주영',
           company: '아이헤이트플라잉버그스',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '진초아',
           company: 'SKT',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '한미정',
           company: '코스트코',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         }
       ]
@@ -483,13 +469,6 @@ const HFK_DATA = {
       schedule: '일 10:30',
       dates: ['10/18', '10/25', '11/1', '11/8', '11/15', '12/6'],
       members: [
-        {
-          name: '고영상',
-          company: 'BYDKOREA',
-          reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
-          events: []
-        },
         {
           name: '권나윤',
           company: '페일블루닷컴퍼니',
@@ -554,35 +533,35 @@ const HFK_DATA = {
           name: '고진원',
           company: '지아이티',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김주현',
           company: '얼리페이',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '김지영',
           company: '한국훼스토',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '박아영',
           company: '페일블루닷컴퍼니',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이아림',
           company: 'SLEXN',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         }
       ]
@@ -695,119 +674,112 @@ const HFK_DATA = {
           name: '김다영',
           company: '(주)다다씨앤씨',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김동일',
           company: 'NAVER',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김준영',
           company: 'SKT',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김현진',
           company: '개인사업자',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '김화진',
           company: '현대해상',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '문지현',
           company: '플레져필라테스',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '반희정',
           company: 'Artesmis Partners',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '유효영',
           company: '퍼시스(퍼플식스 스튜디오)',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이난경',
           company: '플레이스일다시삼',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '이민정',
           company: '사실은대단한제작소/피치마켓',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이수림',
           company: '오뚜기',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '이정준',
           company: '메모리올',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
-          events: []
-        },
-        {
-          name: '장규인',
-          company: '멈둘레꽃',
-          reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '조현국',
           company: '오뚜기',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '채여진',
           company: '모이코리안',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '홍은영',
           company: '법무법인 채비',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '황민아',
           company: '메가스터디교육(주)',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         }
       ]
@@ -831,7 +803,7 @@ const HFK_DATA = {
         {
           name: '도헌정',
           company: '중앙일보',
-          reg: '첫등록',
+          reg: '재등록',
           attendance: [false, null, null, null, null, null],
           events: []
         },
@@ -1396,13 +1368,6 @@ const HFK_DATA = {
           events: []
         },
         {
-          name: '이효주',
-          company: '한국노인인력개발원',
-          reg: '재등록',
-          attendance: [null, null, null, null, null, null],
-          events: []
-        },
-        {
           name: '최영롱',
           company: '와이즈버즈',
           reg: '첫등록',
@@ -1424,70 +1389,70 @@ const HFK_DATA = {
           name: '김아영',
           company: '딜로이트 안진회계법인',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '김유리',
           company: '근로복지공단',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '김효진',
           company: '교보생명',
           reg: '첫등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '박선영',
           company: '이노션',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '박승표',
           company: '스케일업스쿼드',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '박혜림',
           company: '한국서부발전',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         },
         {
           name: '송서현',
           company: '서울특별시',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '임성우',
           company: '삼성전자',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '장희원',
           company: '낼나',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [false, null, null, null, null, null],
           events: []
         },
         {
           name: '전상현',
           company: '밀리의서재',
           reg: '재등록',
-          attendance: [null, null, null, null, null, null],
+          attendance: [true, null, null, null, null, null],
           events: []
         }
       ]
