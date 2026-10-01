@@ -794,13 +794,6 @@ const HFK_DATA = {
           events: []
         },
         {
-          name: '도헌정',
-          company: '중앙일보',
-          reg: '재등록',
-          attendance: [false, null, null, null, null, null],
-          events: []
-        },
-        {
           name: '유영이',
           company: '이노션',
           reg: '재등록',
