@@ -790,14 +790,14 @@ const HFK_DATA = {
           name: '김유일',
           company: '테크트로닉인더스트리즈코리아',
           reg: '재등록',
-          attendance: [false, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '유영이',
           company: '이노션',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         }
       ]
