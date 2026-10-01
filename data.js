@@ -234,112 +234,112 @@ const HFK_DATA = {
           name: '김상우',
           company: '신한은행',
           reg: '첫등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '김향주',
           company: '더퍼스트터치',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, false, null, null, null, null],
           events: []
         },
         {
           name: '박상환',
           company: 'track03',
           reg: '첫등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '손상희',
           company: 'LG경영연구원',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '신선아',
           company: '오아시스마켓',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '신현주',
           company: '캐나다대사관',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '양동선',
           company: '42dot',
           reg: '재등록',
-          attendance: [false, null, null, null, null, null],
+          attendance: [false, false, null, null, null, null],
           events: []
         },
         {
           name: '양승희',
           company: '위펀',
           reg: '재등록',
-          attendance: [false, null, null, null, null, null],
+          attendance: [false, false, null, null, null, null],
           events: []
         },
         {
           name: '양은주',
           company: '신한라이프',
           reg: '첫등록',
-          attendance: [false, null, null, null, null, null],
+          attendance: [false, true, null, null, null, null],
           events: []
         },
         {
           name: '유윤정',
           company: '한화푸드테크',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '이난경',
           company: '플레이스일다시삼',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '이유진',
           company: '서울문화재단',
           reg: '첫등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '최지혜',
           company: '주식회사 롱제비티',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, true, null, null, null, null],
           events: []
         },
         {
           name: '허정은',
           company: 'Lg',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, false, null, null, null, null],
           events: []
         },
         {
           name: '허주현',
           company: '마콜컨설팅그룹',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, false, null, null, null, null],
           events: []
         },
         {
           name: '황선정',
           company: 'BMS제약',
           reg: '재등록',
-          attendance: [true, null, null, null, null, null],
+          attendance: [true, false, null, null, null, null],
           events: []
         }
       ]
@@ -469,13 +469,6 @@ const HFK_DATA = {
       schedule: '일 10:30',
       dates: ['10/18', '10/25', '11/1', '11/8', '11/15', '12/6'],
       members: [
-        {
-          name: '권나윤',
-          company: '페일블루닷컴퍼니',
-          reg: '재등록',
-          attendance: [null, null, null, null, null, null],
-          events: []
-        },
         {
           name: '남은경',
           company: '이엠인피니',
@@ -1385,13 +1378,6 @@ const HFK_DATA = {
       schedule: '토 14:30',
       dates: ['9/19', '10/3', '10/17', '11/1', '11/14', '11/28'],
       members: [
-        {
-          name: '김아영',
-          company: '딜로이트 안진회계법인',
-          reg: '재등록',
-          attendance: [false, null, null, null, null, null],
-          events: []
-        },
         {
           name: '김유리',
           company: '근로복지공단',
